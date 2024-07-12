@@ -17,7 +17,7 @@ Here are some of the tools and languages I have experience with and use in proje
 </p>
 
 ## Current Project:
-I am currently working on the Cloud Resume Challenge - Find details of the Challenge here: 
+I am currently working on the Cloud Resume Challenge - Find details of the Challenge here: https://github.com/justinhasid/Cloud-Resume-HasidJD.git
 <p/> Ever evolving final product here:  www.hasidjd.com
 
 ## 📊 GitHub Stats
